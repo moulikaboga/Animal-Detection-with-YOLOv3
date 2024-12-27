@@ -39,7 +39,7 @@ pip install numpy opencv-python matplotlib
 
 2. Add the necessary files to the repository:
    - `yolov3.cfg`: YOLOv3 configuration file.
-   - `yolov3.weights`: Pre-trained weights file. [Can be downloaded from ](https://github.com/patrick013/Object-Detection---Yolov3/raw/refs/heads/master/model/yolov3.weights)
+   - `yolov3.weights`: Pre-trained weights file. [Can be downloaded from clicking this link ](https://github.com/patrick013/Object-Detection---Yolov3/raw/refs/heads/master/model/yolov3.weights)
  
    - `coco (1).names`: COCO dataset class names.
 
